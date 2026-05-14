@@ -1,7 +1,7 @@
 # Transfer Graph Reasoning Network for Misaligned Visible-Thermal Object Detection
 
-![KzIZ2bS.png](https://iili.io/BmGV2Hb.md.jpg)
-![KzItyAl.png](https://iili.io/BmGV3Rj.md.jpg)
+![KzIZ2bS.png](https://iili.io/BmGhBWl.md.png)
+![KzItyAl.png](https://iili.io/BmGhofS.md.png)
 
 ## Code
 The code are available at https://pan.baidu.com/s/1v6PdOrTos-rxr99--ywiuQ?pwd=mgu7 
